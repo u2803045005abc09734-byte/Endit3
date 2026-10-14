@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.yeoxuhang.endit.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["ServerLevelMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
